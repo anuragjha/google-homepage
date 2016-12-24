@@ -1,0 +1,133 @@
+#center {
+	display: block;
+	
+	color: rgb(34, 34, 34);
+	display: block;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	height: 92px;
+	padding-top: 109px;
+	text-align: -webkit-center;
+	width: 98%;
+}
+
+
+#googlelogo {
+	position : relative;
+	display : block;
+	margin-top: 107px;
+
+	background-size: 272px 92px;
+	height: 92px;
+	width: 272px
+	
+	/* straight from google */
+	/*-webkit-background-clip: border-box;
+	-webkit-background-origin: padding-box;
+	-webkit-background-size: 272px 92px;
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-color: rgba(0, 0, 0, 0);
+	background-image: url(https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png);
+	background-origin: padding-box;
+	background-size: 272px 92px;
+	color: rgb(34, 34, 34);
+	display: block;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	height: 92px;
+	text-align: -webkit-left;
+	width: 272px;*/
+
+}
+
+#googlelogo_subtext {
+	color: #4285f4;
+	font: 16px/16px roboto-regular, arial, sans-serif;
+	left: 97px;
+	position: relative;
+	top: -16px;
+	white-space: nowrap
+}
+
+#search {
+	position : relative;
+	display : block;
+	margin-top: 15px;
+
+	border : 1px solid #ddd;
+	height :35px;
+	width : 41%;
+
+}
+
+.button {
+-webkit-appearance: none;
+-webkit-rtl-ordering: logical;
+-webkit-user-select: none;
+-webkit-writing-mode: horizontal-tb;
+align-items: flex-start;
+background-color: rgb(242, 242, 242);
+background-image: -webkit-linear-gradient(top, rgb(245, 245, 245), rgb(241, 241, 241));
+border-bottom-color: rgb(242, 242, 242);
+border-bottom-left-radius: 2px;
+border-bottom-right-radius: 2px;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-image-outset: 0px;
+border-image-repeat: stretch;
+border-image-slice: 100%;
+border-image-source: none;
+border-image-width: 1;
+border-left-color: rgb(242, 242, 242);
+border-left-style: solid;
+border-left-width: 1px;
+border-right-color: rgb(242, 242, 242);
+border-right-style: solid;
+border-right-width: 1px;
+border-top-color: rgb(242, 242, 242);
+border-top-left-radius: 2px;
+border-top-right-radius: 2px;
+border-top-style: solid;
+border-top-width: 1px;
+box-sizing: border-box;
+color: rgb(117, 117, 117);
+cursor: default;
+display: inline-block;
+font-family: arial, sans-serif;
+font-size: 13px;
+font-style: normal;
+font-variant-caps: normal;
+font-weight: bold;
+height: 36px;
+letter-spacing: normal;
+line-height: 27px;
+margin-bottom: 11px;
+margin-left: 4px;
+margin-right: 4px;
+margin-top: 11px;
+min-width: 54px;
+padding-bottom: 0px;
+padding-left: 16px;
+padding-right: 16px;
+padding-top: 0px;
+text-align: center;
+text-indent: 0px;
+text-shadow: none;
+text-transform: none;
+white-space: pre;
+/**/
+
+word-spacing: 0px;
+writing-mode: lr-tb;
+}
+
+#submit1 {
+	width: 125.75px;
+}
+
+#submit2 {
+	width: 142.578125px;
+}
+
+
